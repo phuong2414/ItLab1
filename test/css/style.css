@@ -12,7 +12,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(252, 251, 250);
+    background-color: rgb(247, 222, 197);
 }
 
 .card{
@@ -50,14 +50,13 @@ body {
 
 .des{
     font-size: 14px;
-    color:#707070;
+    color:#635e5e;
     text-align: center;
 }
 
 .slide-container{
     max-width: 1120px;
     width: 100%;
-    background-color:grey;
     padding: 40px 0;
 }
 
